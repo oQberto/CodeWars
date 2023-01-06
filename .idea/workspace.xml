@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239eeac8-41d3-4161-a9b8-612768c3139b" name="Changes" comment="Added &quot;CountingDuplicates&quot; class">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/SumOfDigits.java" afterDir="false" />
+    <list default="true" id="239eeac8-41d3-4161-a9b8-612768c3139b" name="Changes" comment="Added &quot;SumOfDigits&quot; class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Java Projects/Ermakov"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672768814072</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added &quot;SumOfDigits&quot; class">
+      <created>1672834675723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672834675723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added &quot;Likes&quot; class" />
     <MESSAGE value="Added &quot;CountingDuplicates&quot; class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;CountingDuplicates&quot; class" />
+    <MESSAGE value="Added &quot;SumOfDigits&quot; class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;SumOfDigits&quot; class" />
   </component>
 </project>
